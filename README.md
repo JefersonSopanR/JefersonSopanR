@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Jesopan-'s 42 stats](https://badge.mediaplus.ma/greenbinary/Jesopan-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![Jesopan-'s 42 stats](https://badge.mediaplus.ma/greenbinary/Jesopan-?1337Badge=off&UM6P=off)]
 
 <!--
 **JefersonSopanR/JefersonSopanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
