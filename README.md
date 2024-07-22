@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on minishell
-- 🌱 I’m currently learning tokenization and parsing data
+- 🔭 I’m currently working on minishell in 42 Málaga
+- 🌱 I’m currently learning learning C programming on 42 Málaga | Fundación Telefónica
 - 👯 I’m looking to collaborate on ambitious projects 
 - 💬 Ask me about anything you want
 - 📫 How to reach me: jeferson23sopan@gmail.com
