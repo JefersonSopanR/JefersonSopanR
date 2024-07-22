@@ -1,10 +1,4 @@
 ## Hi there 👋
-[![Jesopan-'s 42 stats](https://badge.mediaplus.ma/greenbinary/Jesopan-?1337Badge=off&UM6P=off)]
-
-<!--
-**JefersonSopanR/JefersonSopanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on minishell in 42 Málaga
 - 🌱 I’m currently learning learning C programming on 42 Málaga | Fundación Telefónica
