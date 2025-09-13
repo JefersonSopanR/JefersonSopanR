@@ -37,8 +37,7 @@
 - 📍 **42 Málaga** – Software Development (Systems & Full-Stack focus)  
 - 💡 Additional training in **C, C++, Java, HTML, CSS, JavaScript, Node.js, Fastify, SQLite**  
 - 🖥️ Proficient with **Unix systems, Git & GitHub**  
-- 🎯 Participation in **Hackathons (2025)**  
-- 📚 Course: *Competencias y Habilidades Profesionales* – Arrabal (2023)  
+- 🎯 Participation in **Hackathons (2025)**
 
 ---
 
