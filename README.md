@@ -108,7 +108,7 @@
 
 <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=JefersonSopanR&show_icons=true&locale=en&layout=compact&theme=radical)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=JefersonSopanR&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800)]()
   
 </div>
 
@@ -135,3 +135,4 @@
 ---
 
 Last Edited on: 14/09/2025
+
