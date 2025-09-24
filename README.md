@@ -88,10 +88,8 @@
 
 ### ⏱ Streak Stats  
 
-<div align=center>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=JefersonSopanR&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+<div align="center">
+  <img src="https://streaks.now.sh/?user=JefersonSopanR&theme=dracula" alt="GitHub Streak Stats" />
 </div>
 
 ---
