@@ -71,7 +71,7 @@
 ## 📊 Profile Statistics  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JefersonSopanR&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JefersonSopanR&theme=dracula" alt="streak" />
 </div>
 
 ---
