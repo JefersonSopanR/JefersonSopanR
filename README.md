@@ -23,21 +23,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software developer trained at **42 Málaga**.  
-- 💻 Experienced in **C and C++**, specialized in **systems programming, web development, and real-time applications**.  
-- 🎮 Currently building a **multiplayer real-time Pong game** with user management, **SQLite database**, and an **AI Bot**, using **Node.js, Socket.IO, TypeScript, and Tailwind CSS**.  
-- 🔒 Skilled in **secure authentication** (JWT, bcrypt), **data management**, and **real-time rendering** with HTML5 Canvas.  
-- 🤝 Strong problem-solving skills, teamwork, and adaptability to new technologies.  
-- 🚀 My goal: contribute to **innovative and high-impact projects**.  
+🎓 Software & Machine Learning Developer trained at 42 Málaga (Common Core graduate).
+🧠 Specialized in Data Science, AI & Computer Vision, implementing ML algorithms from scratch (Neural Networks, Logistic/Linear Regression, Data Augmentation) in Python, Go, and C/C++.
+📊 Experienced in exploratory data analysis (EDA), statistical modeling, and image processing without relying on high-level ML libraries.
+🚀 My goal: Transitioning into an innovative team as a Junior Data / Machine Learning Engineer to solve complex numerical and business problems.
 
 ---
 
-## 🎓 Education & Training
+## 🎓 Education & Technical Training
 
-- 📍 **42 Málaga** – Software Development (Systems & Full-Stack focus)  
-- 💡 Additional training in **C, C++, Java, HTML, CSS, JavaScript, Node.js, Fastify, SQLite**  
-- 🖥️ Proficient with **Unix systems, Git & GitHub**  
-- 🎯 Participation in **Hackathons (2025)**
+* 📍 **42 Málaga** | Specialization in AI, Machine Learning & Computer Vision *(Common Core Graduate)*
+* 📐 **Industrial Engineering** | 4 years completed *(Solid background in linear algebra, calculus, and statistics)*
+* 💻 **Languages & Tools:** Python, Go, C/C++, Java, SQL, Linux, Git
+* 🏆 **Hackathons (2025):** Hands-on experience solving complex problems under tight deadlines
 
 ---
 
